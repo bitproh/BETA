@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916991367802",
+    "project_id": "mypill-cba59",
+    "storage_bucket": "mypill-cba59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916991367802:android:e2c876b9712af62b02f9c3",
+        "android_client_info": {
+          "package_name": "com.beta.mypill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916991367802-mnc9qdiekoubrntta5ho9boodf94m2dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZP1VCe-zalrlc_zGUAJdFo0P6euYuCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916991367802-mnc9qdiekoubrntta5ho9boodf94m2dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
